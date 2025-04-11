@@ -29,7 +29,7 @@ This microservice is part of a FastAPI-based AI system - WEB PARSER. The **Web P
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/minhaj-mhd/Web-Processor-WP-.git
 cd your-repo/web_processor_service
 
 # Create and activate a virtual environment
